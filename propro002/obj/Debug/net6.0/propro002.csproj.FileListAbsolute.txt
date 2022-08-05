@@ -1,0 +1,15 @@
+C:\Users\yko\Documents\обучение\GB\ПРОЕКТЫ С#\проект001\propro002\bin\Debug\net6.0\propro002.exe
+C:\Users\yko\Documents\обучение\GB\ПРОЕКТЫ С#\проект001\propro002\bin\Debug\net6.0\propro002.deps.json
+C:\Users\yko\Documents\обучение\GB\ПРОЕКТЫ С#\проект001\propro002\bin\Debug\net6.0\propro002.runtimeconfig.json
+C:\Users\yko\Documents\обучение\GB\ПРОЕКТЫ С#\проект001\propro002\bin\Debug\net6.0\propro002.dll
+C:\Users\yko\Documents\обучение\GB\ПРОЕКТЫ С#\проект001\propro002\bin\Debug\net6.0\propro002.pdb
+C:\Users\yko\Documents\обучение\GB\ПРОЕКТЫ С#\проект001\propro002\obj\Debug\net6.0\propro002.csproj.AssemblyReference.cache
+C:\Users\yko\Documents\обучение\GB\ПРОЕКТЫ С#\проект001\propro002\obj\Debug\net6.0\propro002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yko\Documents\обучение\GB\ПРОЕКТЫ С#\проект001\propro002\obj\Debug\net6.0\propro002.AssemblyInfoInputs.cache
+C:\Users\yko\Documents\обучение\GB\ПРОЕКТЫ С#\проект001\propro002\obj\Debug\net6.0\propro002.AssemblyInfo.cs
+C:\Users\yko\Documents\обучение\GB\ПРОЕКТЫ С#\проект001\propro002\obj\Debug\net6.0\propro002.csproj.CoreCompileInputs.cache
+C:\Users\yko\Documents\обучение\GB\ПРОЕКТЫ С#\проект001\propro002\obj\Debug\net6.0\propro002.dll
+C:\Users\yko\Documents\обучение\GB\ПРОЕКТЫ С#\проект001\propro002\obj\Debug\net6.0\refint\propro002.dll
+C:\Users\yko\Documents\обучение\GB\ПРОЕКТЫ С#\проект001\propro002\obj\Debug\net6.0\propro002.pdb
+C:\Users\yko\Documents\обучение\GB\ПРОЕКТЫ С#\проект001\propro002\obj\Debug\net6.0\propro002.genruntimeconfig.cache
+C:\Users\yko\Documents\обучение\GB\ПРОЕКТЫ С#\проект001\propro002\obj\Debug\net6.0\ref\propro002.dll
