@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("2022 2022Hello, World!");
+﻿// введите имя пользователя
+Console.WriteLine("Введите имя пользователя-");string username = Console.ReadLine();
+Console.WriteLine("Привет");Console.Write(username);
