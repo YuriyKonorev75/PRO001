@@ -1,10 +1,10 @@
 ﻿// сумма чисел
-Console.Clear();
-Console.WriteLine("Введите два числа");
-int numberA =0; int numderB = 0;
-Console.Write("Первое: ");Console.ReadLine(numberA);
-Console.Write("Второе: ");Console.ReadLine(numberB);
-int result = numberA + numderB;
-Console.WriteLine("Результат =");Console.Write(result);
-Console.ReadLine();
-Console.Clear();
+Console.WriteLine("Сумма двух чисел");
+Console.Write("Первое: ");
+int numberA=new Random().Next(1,10);Console.Write(numberA);Console.Write(" ;");
+Console.WriteLine("Второе: ");
+int numberB=new Random().Next(1,10);Console.Write( numberB );Console.Write(" ;");
+int result = numberA + numberB;
+Console.Write("Результат =");Console.Write(result);Console.Write(" ;");
+
+
